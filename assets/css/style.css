@@ -2430,7 +2430,8 @@ div#wrapper.open > .offcanvas-mask {
           transform: translateX(-100%);
   top: 0;
   left: 0;
-  background: #fff;
+  background-image: url("../../media/bg-worrldtime.jpg");
+  background-size: cover;
   -webkit-box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2);
           box-shadow: 0 0 30px 0 rgba(0, 0, 0, 0.2);
   z-index: 999;
