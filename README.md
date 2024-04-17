@@ -1,1 +1,1 @@
-# sginsight-revamp
+# sg-insight-revamp
