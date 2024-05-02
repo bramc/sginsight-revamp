@@ -10933,3 +10933,61 @@ video {
     font-weight: 600;
   }
 }
+
+.title-page {
+  padding-top: 10px;
+  font-size: 25px;
+  color: #000000;
+  font-family: var(--font-title);
+  font-weight: 600;
+}
+
+.page-item.active .page-link {
+  z-index: 3;
+  color: #000;
+  font-weight: 600;
+  background-color: #FCC700;
+  border-color: #FCC700;
+}
+
+.economic-calendar-button {
+  margin-bottom: 20px;
+}
+
+.btn-cal {
+  border-radius: 10px !important;
+  padding: 8px 20px;
+  background: #FDF0C0;
+  border-color: #FCC700;
+  color: #000;
+  margin: 0px 7px 7px 0px;
+}
+
+.btn-cal-active {
+  border-radius: 10px !important;
+  padding: 8px 20px;
+  background: #FCC700;
+  border-color: #FCC700;
+  color: #000;
+  font-weight: 600;
+  margin: 0px 7px 7px 0px;
+}
+
+.date-title {
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.btn-primary {
+  color: #000;
+  background: #FCC700;
+  border-color: #FCC700;
+}
+
+.nav-link {
+  color: #FF7C1A;
+}
+
+.nav-link:hover {
+  color: #666;
+}
